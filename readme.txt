@@ -1,2 +1,1 @@
-This repo has no purpose and is my first git repo
-to learn how to use git and github
+This repo has no purpose and is my first git repo to learn how to use git and github
